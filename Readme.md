@@ -1,4 +1,4 @@
-/*
+
 # Gavin Morrison - README Resume
 
 ### Contact Information
