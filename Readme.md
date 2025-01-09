@@ -99,8 +99,5 @@ push the boundaries of sound design and restoration.
 
 ---
 
-## 🌐 Portfolio & Links
-- GitHub: github.com/YourUsername
-- LinkedIn: linkedin.com/in/YourName
-- Website: YourWebsite.com
-*/
+## 🌐 Links
+- LinkedIn: https://www.linkedin.com/in/gavin-c-morrison-617b5b1bb
